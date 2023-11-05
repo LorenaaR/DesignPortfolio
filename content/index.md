@@ -3,9 +3,13 @@ Title: Home
 Description: This is our index page.
 ---
 
-Home page
+Om mig
 ==========================
 
-The source for this page is in `content/index.md`.
+![alt text](assets/img/Lorena.jpg)
 
-This is a sample home page written in markdown with some frontmatter defined.
+Mitt namn är Lorena och jag går första året i programmet Webbprogrammering.
+Jag hade ingen erfarenhet av programmering sedan tidigare, så det har varit mycket att lära sig. Men för det mesta har det varit ganska roligt eftersom jag älskar metodisk problemlösning.
+När jag inte studerar så tränar jag mina två hundar i spår, sök och lydnad eller spenderar tid på brukshundsklubben där jag engagerar mig ideellt.
+Utöver hundträningen så blir det även en del gaming, mestadels med inslag av lagarbete och strategi.
+Det var lite om mig.
