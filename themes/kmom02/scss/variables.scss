@@ -1,5 +1,6 @@
 $font-color: #222;
 $font-alternative-color: #fff;
-$accent-color: #5a35c1;
-$background-color: #dfc9fb;
-$background-alternative-color: color.adjust($accent-color, $alpha: -0.6)
+$accent-color: #9670ff;
+$background-color: #fff;
+$background-alternative-color: #b9a3f6;
+$elements-color: color.adjust($accent-color, $alpha: -0.6)
